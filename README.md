@@ -47,7 +47,7 @@ By leveraging data visualization, filtering options, and analytical tools, this 
 
 4. Real-Time Data Updates: Managing real-time data refresh without impacting performance required efficient scheduling and indexing strategies.
 
-# Conclusion✅🔚
+# Conclusion
 The HR analytics Dashboard project successfully showcased the use of Python(for data cleaning and EDA) and Power BI for building an intuitive dashboard. Key achievements include:
 
 1. Successfully integrated multiple data sources for comprehensive analysis.
