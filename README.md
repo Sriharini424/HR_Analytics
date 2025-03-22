@@ -90,7 +90,65 @@ By leveraging data visualization, filtering options, and analytical tools, this 
 
 -> Those with a Doctoral Degree have the least attrition, possibly indicating stronger job retention.
 
+![image_alt](https://github.com/Sriharini424/HR_Analytics/blob/f822dac760c400dae5e2b62261efe42955fd4770/Screenshot%202025-03-22%20202604.png)
 
+# 1.Total Active Employees & Average Age:
+
+-> The organization has 1,233 active employees.
+
+-> The average age of employees is 37, suggesting a workforce primarily composed of mid-career professionals.
+
+# 2.Job Role Distribution:
+
+-> The largest job roles by employee count are:
+
+Sales Executives (269)
+
+Research Scientists (245)
+
+Manufacturing Directors (135)
+
+-> The smallest job roles include:
+
+Human Resources (40)
+
+Research Directors (78)
+
+Managers (97)
+
+# 3.Education Levels Among Employees:
+
+-> Most employees hold a Bachelor’s Degree, followed by Master’s Degrees.
+
+-> A relatively smaller percentage have Associate Degrees.
+
+-> No employees are listed with only a High School diploma, indicating a highly educated workforce.
+
+# 4.Attrition Rate by Gender & Age Group:
+
+-> Younger employees (under 25 & 25-34) have the highest attrition rates.
+
+-> Attrition decreases as employees age, with those over 55 having the lowest attrition.
+
+# 5.Gender disparity in attrition:
+
+-> Males have higher attrition in some age groups (e.g., 61.61% of 25-34 attrition is male).
+
+-> In older age groups, the trend balances out.
+
+# 6.Performance Rating by Department:
+
+-> The R&D department dominates in performance ratings.
+
+-> Sales and HR departments have lower recorded performance contributions.
+
+-> This could indicate stronger productivity in technical/research roles compared to sales or HR.
+
+# 7.Marital Status & Gender Demographics:
+
+-> Employees are categorized as Single, Married, or Divorced.
+
+-> Gender distribution is highlighted, which could provide insights into hiring diversity and retention patterns.
 
 # Challenges Faced
 1. Data Integration Issues: Encountered difficulties in merging data from multiple sources, requiring extensive data cleaning and transformation.
