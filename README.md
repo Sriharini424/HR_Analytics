@@ -40,6 +40,57 @@ By leveraging data visualization, filtering options, and analytical tools, this 
 
 # Key Insights:
 ![image alt](https://github.com/Sriharini424/HR_Analytics/blob/e2971d6219ce235505fa858ae46727f08149325e/Screenshot%202025-03-22%20202410.png)
+# 1. Total Employees and Attrition Rate:
+
+-> The company has 1,470 employees.
+
+-> The attrition count is 237, leading to an attrition rate of 36.92%, which is relatively high.
+
+# 2.Active Employees by Age Band and Gender:
+
+-> The majority of employees fall within the 25-34 and 35-44 age groups.
+
+-> More males are employed across all age groups compared to females.
+
+-> Very few employees are under 25 or over 55.
+
+# 3.Attrition by Department:
+
+-> R&D department has the highest number of active employees but also experiences significant attrition.
+
+-> Sales department has fewer employees but shows a notable attrition count.
+
+-> HR department has the least number of employees and a relatively low attrition count.
+
+# 4.Education Field and Attrition:
+
+-> The largest proportion of employees comes from the Life Sciences field (41.93%), followed by Technical Degrees (32.52%).
+
+-> Other fields, such as Medical and Marketing, have relatively fewer employees.
+
+-> A significant number of employees with Bachelor’s and Master’s Degrees are leaving the company.
+
+# 5.Marital Status and Gender Distribution:
+
+-> Employees are categorized based on Marital Status (Single, Married, Divorced) and Gender (Male, Female).
+
+-> Gender-based insights can help identify trends in attrition or job satisfaction levels.
+
+# 6.Monthly Income by Job Role:
+
+-> Employees in Research and Managerial roles tend to earn the highest salaries.
+
+-> Employees in Sales, Labor, and Support roles earn lower salaries.
+
+-> Income disparities across job roles could influence attrition.
+
+# 7.Education and Attrition Count:
+
+-> Employees with a Bachelor’s Degree and Master’s Degree contribute the most to attrition.
+
+-> Those with a Doctoral Degree have the least attrition, possibly indicating stronger job retention.
+
+
 
 # Challenges Faced
 1. Data Integration Issues: Encountered difficulties in merging data from multiple sources, requiring extensive data cleaning and transformation.
