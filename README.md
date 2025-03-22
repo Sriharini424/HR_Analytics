@@ -38,6 +38,9 @@ By leveraging data visualization, filtering options, and analytical tools, this 
    
 3. Libraries: pandas, sqlalchemy, datetime.
 
+# Key Insights:
+![image alt](https://github.com/Sriharini424/HR_Analytics/blob/e2971d6219ce235505fa858ae46727f08149325e/Screenshot%202025-03-22%20202410.png)
+
 # Challenges Faced
 1. Data Integration Issues: Encountered difficulties in merging data from multiple sources, requiring extensive data cleaning and transformation.
 
