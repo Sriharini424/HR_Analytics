@@ -2,7 +2,7 @@
 # Overview:
 The HR Analytics Project focuses on processing HR data to generate actionable insights. The project covers data cleaning, SQL database integration, and dynamic visualization using Power BI. The dashboard updates automatically, ensuring real-time insights for effective decision-making.
 
-# Aim:
+# Aim of the Project:
 The aim of this project is to develop an interactive Power BI report that provides actionable insights into business data.
 
 By leveraging data visualization, filtering options, and analytical tools, this report helps analysts make informed decisions efficiently. Additionally, it aims to streamline data analysis processes and improve reporting accuracy. The ultimate goal is to enhance business intelligence and optimize decision-making.
