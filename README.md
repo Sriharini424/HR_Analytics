@@ -8,7 +8,7 @@ The aim of this project is to develop an interactive Power BI report that provid
 By leveraging data visualization, filtering options, and analytical tools, this report helps analysts make informed decisions efficiently. Additionally, it aims to streamline data analysis processes and improve reporting accuracy. The ultimate goal is to enhance business intelligence and optimize decision-making.
 
 # Objectives of the Project:
-1. Develop a comprehensive and interactive jupyter dashboard.
+1. Develop a comprehensive and interactive dashboard.
 
 2. Enable real-time data analysis for better decision-making.
 
@@ -151,7 +151,7 @@ Managers (97)
 -> Gender distribution is highlighted, which could provide insights into hiring diversity and retention patterns.
 
 # Challenges Faced
-1. Data Integration Issues: Encountered difficulties in merging data from multiple sources,juputtef requiring extensive data cleaning and transformation.
+1. Data Integration Issues: Encountered difficulties in merging data from multiple source requiring extensive data cleaning and transformation.
 
 2. Performance Optimization: Large datasets initially slowed down report responsiveness, which was resolved by optimizing queries and reducing data load.
 
@@ -168,7 +168,7 @@ The HR Analytics Dashboard project successfully showcased the use of Python(for 
 
 3. Designed an intuitive and interactive user interface for seamless navigation.
    
-4. Implemented advanced filtering and drill-through features for detailed insights.                                                                                                                                                                                                                                                                                          this made by shanmukh garu from SSO
+4. Implemented advanced filtering and drill-through features for detailed insights.                                                                                                                                                                                                                                                                                          
 
 
 
